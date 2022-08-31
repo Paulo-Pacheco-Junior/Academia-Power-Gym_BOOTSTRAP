@@ -1,0 +1,41 @@
+.adjust {
+    margin-top:-50px;
+    margin-left:-50px;
+    z-index: 9999;
+}
+
+.adjust2 {
+    margin-top:-50px;
+    margin-left:400px;
+    z-index: 9999;
+}
+
+.lineadjust {
+    letter-spacing:-10px;
+}
+
+
+.colorgold {
+    color:#bd9a65;
+}
+
+.btn-gold {
+    background-color: #bd9a65;
+}
+
+.text-line {
+    line-height: 10px;;
+}
+
+.imagecontainer {
+    background-image: url(../img/academia2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width:100%;
+    min-height:380px;
+}
+
+.image-overlay {
+    background-color: rgba(0,0,0,0.65);
+}
