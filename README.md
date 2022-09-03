@@ -1,4 +1,4 @@
-# Site de academia responsivo feito em Bootstrap 
+# Site | Responsivo | Bootstrap 
 
 https://academia-power-gym-bootstrap.vercel.app/ 
  
