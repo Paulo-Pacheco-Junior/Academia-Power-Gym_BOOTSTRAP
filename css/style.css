@@ -39,3 +39,21 @@
 .image-overlay {
     background-color: rgba(0,0,0,0.65);
 }
+
+@media(min-width:768px) {
+    .textarea-adjust {
+        width: 412px;
+    }
+}
+
+@media(min-width:992px) {
+    .textarea-adjust {
+        width: 552px;
+    }
+}
+
+@media(min-width:1200px) {
+    .textarea-adjust {
+        width: 658px;
+    }
+}
